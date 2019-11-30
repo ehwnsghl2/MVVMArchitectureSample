@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleanArchitecture</string>
+    <string name="empty_description">내용이 없습니다</string>
+</resources>
