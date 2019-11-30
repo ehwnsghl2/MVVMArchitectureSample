@@ -1,0 +1,11 @@
+# MVVMArchitecture
+
+Android MVVM pattern using Kotlin, RxJava2, LiveData, Koin with the Android databinding
+<br/>
+<br/>
+
+MVVM is an architectural pattern that was created to simplify user interface programming. 
+Google appears to be encouraging the use of MVVM for data binding. 
+In fact, the Architecture Components of its Data Binding Library are modeled on the MVVM pattern.
+
+
