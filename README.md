@@ -1,6 +1,6 @@
 # MVVM-Architecture
 
-Android MVVM pattern using Kotlin, RxJava2, LiveData, Koin with the Android databinding
+Android MVVM pattern using Kotlin, RxJava2, Koin, LiveData with the Android databinding
 <br/>
 <br/>
 
