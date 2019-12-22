@@ -15,11 +15,6 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
     override val viewModel: MainViewModel get() = mainViewModel
 
     override fun setUp() {
-        init()
-    }
-
-    private fun init() {
-
     }
 
 
