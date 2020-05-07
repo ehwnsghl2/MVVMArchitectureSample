@@ -18,6 +18,7 @@ class MainActivity : BaseActivity<ActivityMainBinding, MainViewModel>() {
     private val userName = "ehwnsghl2"
 
     override fun setUp() {
+        //˚
     }
 
 
