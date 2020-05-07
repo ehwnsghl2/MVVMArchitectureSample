@@ -1,10 +1,10 @@
-package com.peppy.peppy.di
+package com.branjunhoe.cleanarchitecture.di
 
 import com.branjunhoe.cleanarchitecture.BuildConfig
 import com.branjunhoe.cleanarchitecture.config.baseUrl
 import com.branjunhoe.cleanarchitecture.config.headerInterceptor
 import com.branjunhoe.cleanarchitecture.config.loggingInterceptor
-import com.branjunhoe.cleanarchitecture.network.ApiService
+import com.branjunhoe.cleanarchitecture.remote.ApiService
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

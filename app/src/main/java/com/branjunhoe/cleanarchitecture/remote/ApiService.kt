@@ -1,4 +1,4 @@
-package com.branjunhoe.cleanarchitecture.network
+package com.branjunhoe.cleanarchitecture.remote
 
 import com.branjunhoe.cleanarchitecture.data.model.Repos
 import io.reactivex.Single

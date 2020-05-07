@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.branjunhoe.cleanarchitecture.ui.base
+package com.branjunhoe.cleanarchitecture.utils
 
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData

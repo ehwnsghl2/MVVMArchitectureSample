@@ -1,7 +1,7 @@
 package com.peppy.peppy.api.repository
 
 import com.branjunhoe.cleanarchitecture.data.model.Repos
-import com.branjunhoe.cleanarchitecture.network.ApiService
+import com.branjunhoe.cleanarchitecture.remote.ApiService
 import io.reactivex.Single
 
 class ReposRepositoryImpl(private val apiService: ApiService) : ReposRepository {

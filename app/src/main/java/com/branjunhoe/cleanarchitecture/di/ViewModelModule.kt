@@ -1,4 +1,4 @@
-package com.daangn.www.mvvmsample.di
+package com.branjunhoe.cleanarchitecture.di
 
 import com.branjunhoe.cleanarchitecture.ui.main.MainViewModel
 import org.koin.androidx.viewmodel.ext.koin.viewModel
