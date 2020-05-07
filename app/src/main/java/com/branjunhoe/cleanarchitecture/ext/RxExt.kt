@@ -7,4 +7,4 @@ import io.reactivex.schedulers.Schedulers
 /**
  * RxJava2 subscribeOn, observeOn 공통
  * */
-fun <T> Single<T>.with(): Single<T> = subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
+fun <T> Single<T>.mainThread(): Single<T> = subscribeOn(Schedulers.io()).observeOn(AndroidSchedulers.mainThread())
